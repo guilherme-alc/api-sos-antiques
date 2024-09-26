@@ -1,0 +1,16 @@
+{
+    "usuarios": [],
+    "anuncios": [
+      {
+        "id": 0,
+        "tituloProduto": "Vintage Clock",
+        "tipoProduto": "troca",
+        "categoriaProduto": "Timepieces",
+        "condicaoProduto": "New",
+        "precoProduto": 150,
+        "descricaoProduto": "A well-preserved vintage clock.",
+        "fotoProduto": "https://img.freepik.com/premium-photo/broken-old-vintage-clock-without-arrows-abandoned-garden_154224-206.jpg",
+        "termoContato": false
+      }
+    ]
+  }
